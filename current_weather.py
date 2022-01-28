@@ -2,7 +2,6 @@
 import requests
 
 # Enter your API key here
-api_key = "6f89b1f3c8543ded006c403c675457b9"
 api_key = "Your_API_Key"
 
 # base_url variable to store url
